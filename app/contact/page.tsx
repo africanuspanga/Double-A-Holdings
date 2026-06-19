@@ -1,5 +1,6 @@
 import { createMetadata } from "@/lib/metadata";
 import { company } from "@/data/site-config";
+import { localBusinessSchema } from "@/lib/schema";
 import { PageHero } from "@/components/shared/page-hero";
 import { ContactForm } from "@/components/shared/contact-form";
 import { Button } from "@/components/shared/button";
@@ -123,6 +124,13 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(localBusinessSchema),
+        }}
+      />
     </>
   );
 }

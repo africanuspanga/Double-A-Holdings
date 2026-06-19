@@ -82,7 +82,7 @@ export function SiteHeader() {
                 alt={`${company.name} logo`}
                 width={160}
                 height={48}
-                className="h-10 w-auto lg:h-12"
+                className="h-12 w-auto lg:h-14"
                 priority
               />
             </Link>

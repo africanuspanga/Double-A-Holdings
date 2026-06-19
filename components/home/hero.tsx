@@ -17,7 +17,7 @@ export function Hero() {
   return (
     <section className="relative bg-deep-navy text-white overflow-hidden">
       <div className="relative mx-auto max-w-7xl">
-        <div className="grid lg:grid-cols-2 min-h-[650px] lg:min-h-[750px]">
+        <div className="grid lg:grid-cols-2 min-h-[520px] lg:min-h-[750px]">
           {/* Content area */}
           <div className="relative z-10 flex flex-col justify-center px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
             <motion.span
