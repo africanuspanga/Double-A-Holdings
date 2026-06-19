@@ -1,0 +1,23 @@
+export const siteAssets = {
+  logo: "/images/double-a-logo.png",
+  logoMark: "/images/double-a-logo.png",
+  favicon: "/images/double-a-favicon.png",
+  whatsapp: "/icons/whatsapp.png",
+  heroVideo: "/videos/hero-bg.mp4",
+  heroPoster: "/images/hero-truck.png",
+  heroTruck: "/images/hero-truck.png",
+  openRoad: "/images/open-road.jpg",
+  about: "/images/logistics-team.jpg",
+  darEsSalaam: "/images/dar-es-salaam.jpg",
+  trucksHighway: "/images/trucks-highway.jpg",
+  truckDriver: "/images/truck-driver.jpg",
+  multimodal: "/images/multimodal.jpg",
+  services: {
+    roadTransport: "/images/hero-truck.png",
+    maritimeTransport: "/images/maritime-international.jpg",
+    airFreight: "/images/air-freight.jpg",
+    warehousing: "/images/warehouse.jpg",
+    customsClearance: "/images/customs-officer.jpg",
+    endToEnd: "/images/multimodal.jpg",
+  },
+};
