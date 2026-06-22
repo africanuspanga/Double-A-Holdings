@@ -12,7 +12,7 @@ import { IndustriesSection } from "@/components/home/industries-section";
 import { FinalCta } from "@/components/home/final-cta";
 
 export const metadata = createMetadata({
-  title: "Transport and Logistics Tanzania",
+  title: "Cargo Transport and Logistics in Tanzania",
   pathname: "/",
 });
 

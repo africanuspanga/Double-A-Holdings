@@ -6,7 +6,7 @@ import {
   Ship,
   Plane,
   Warehouse,
-  FileCheck,
+  Container,
   Route,
   ArrowRight,
   Check,
@@ -29,7 +29,7 @@ const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
   Ship,
   Plane,
   Warehouse,
-  FileCheck,
+  Container,
   Route,
 };
 

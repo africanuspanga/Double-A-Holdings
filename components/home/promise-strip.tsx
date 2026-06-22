@@ -22,7 +22,7 @@ const promises = [
   {
     icon: Route,
     title: "End-to-End Solutions",
-    description: "Support from pickup and transport through clearance and delivery.",
+    description: "Support from pickup and transport through handling and delivery.",
   },
 ];
 

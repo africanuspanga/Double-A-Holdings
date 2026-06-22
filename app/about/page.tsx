@@ -59,7 +59,7 @@ export default function AboutPage() {
               <p className="mt-6 text-slate-text leading-relaxed">
                 {company.name} provides road transport, maritime transport,
                 air-freight coordination, warehousing and distribution support,
-                customs-clearance assistance and end-to-end logistics
+                heavy and bulk cargo transport and end-to-end logistics
                 solutions.
               </p>
               <p className="mt-4 text-slate-text leading-relaxed">
@@ -72,7 +72,7 @@ export default function AboutPage() {
             <div className="relative h-80 lg:h-[28rem] rounded-xl overflow-hidden">
               <Image
                 src={siteAssets.about}
-                alt="Double A logistics team"
+                alt="Double A Holdings team"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -212,7 +212,7 @@ export default function AboutPage() {
           </h2>
           <p className="mt-5 text-white/90 max-w-2xl mx-auto">
             Contact Double A Holdings Limited to discuss road transport,
-            freight, customs clearance, warehousing, distribution or
+            freight, heavy and bulk cargo, warehousing, distribution or
             end-to-end logistics requirements.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">

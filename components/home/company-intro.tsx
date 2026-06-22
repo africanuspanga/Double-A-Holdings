@@ -44,8 +44,8 @@ export function CompanyIntro() {
               </p>
               <p>
                 Our services combine road transport, maritime transport, air
-                freight, warehousing, distribution, customs-clearance assistance
-                and end-to-end logistics coordination.
+                freight, warehousing, distribution, heavy and bulk cargo
+                transport and end-to-end logistics coordination.
               </p>
               <p>
                 We focus on quality, safety and reliable service while helping

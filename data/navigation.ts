@@ -11,7 +11,7 @@ export const serviceNav = [
   { label: "Maritime Transport", href: "/services/maritime-transport/" },
   { label: "Air Freight", href: "/services/air-freight/" },
   { label: "Warehousing", href: "/services/warehousing-and-distribution/" },
-  { label: "Customs Clearance", href: "/services/customs-clearance/" },
+  { label: "Heavy and Bulk Cargo", href: "/services/heavy-bulk-cargo/" },
   { label: "End-to-End Logistics", href: "/services/end-to-end-logistics/" },
 ];
 

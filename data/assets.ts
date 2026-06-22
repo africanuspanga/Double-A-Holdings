@@ -7,7 +7,7 @@ export const siteAssets = {
   heroPoster: "/images/hero-truck.png",
   heroTruck: "/images/hero-truck.png",
   openRoad: "/images/open-road.jpg",
-  about: "/images/logistics-team.jpg",
+  about: "/images/Double A team.png",
   darEsSalaam: "/images/dar-es-salaam.jpg",
   trucksHighway: "/images/trucks-highway.jpg",
   truckDriver: "/images/truck-driver.jpg",
@@ -17,7 +17,7 @@ export const siteAssets = {
     maritimeTransport: "/images/maritime-international.jpg",
     airFreight: "/images/air-freight.jpg",
     warehousing: "/images/warehouse.jpg",
-    customsClearance: "/images/customs-officer.jpg",
+    heavyBulkCargo: "/images/hero-truck.png",
     endToEnd: "/images/multimodal.jpg",
   },
 };

@@ -7,7 +7,7 @@ const stages = [
   { number: "02", title: "Planning", description: "The shipment requirements and suitable transport method are reviewed." },
   { number: "03", title: "Pickup", description: "Cargo collection is coordinated from the agreed origin." },
   { number: "04", title: "Transportation", description: "Cargo moves through the selected road, air or maritime route." },
-  { number: "05", title: "Clearance and Handling", description: "Required cargo-clearance and handling processes are coordinated." },
+  { number: "05", title: "Handling and Transshipment", description: "Cargo is handled carefully and prepared for the next stage of movement." },
   { number: "06", title: "Delivery", description: "The shipment reaches its agreed final destination." },
 ];
 

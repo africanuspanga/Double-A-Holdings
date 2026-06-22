@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.doubleaholdings.co.tz/sitemap.xml",
+    sitemap: "https://doubleholdingsltd.co.tz/sitemap.xml",
   };
 }

@@ -17,7 +17,7 @@ export default function ContactPage() {
       <PageHero
         label="Contact Us"
         title="Let’s move your cargo forward"
-        description="Contact Double A Holdings Limited to discuss road transport, freight, customs clearance, warehousing, distribution or end-to-end logistics requirements."
+        description="Contact Double A Holdings Limited to discuss road transport, freight, heavy and bulk cargo, warehousing, distribution or end-to-end logistics requirements."
       />
 
       <section className="bg-soft-blue py-16 lg:py-24">

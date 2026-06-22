@@ -16,7 +16,7 @@ const layoutMap: Record<
   "maritime-transport": { size: "tall" },
   "air-freight": { size: "medium" },
   "warehousing-and-distribution": { size: "medium" },
-  "customs-clearance": { size: "small" },
+  "heavy-bulk-cargo": { size: "small" },
   "end-to-end-logistics": { size: "full" },
 };
 

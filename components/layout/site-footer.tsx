@@ -23,7 +23,7 @@ export function SiteFooter() {
               </h2>
               <p className="mt-3 text-white/70 max-w-xl">
                 Contact Double A Holdings Limited to discuss road transport,
-                freight, customs clearance and logistics support.
+                freight, heavy and bulk cargo and logistics support.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4">

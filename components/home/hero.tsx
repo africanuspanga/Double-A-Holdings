@@ -47,9 +47,9 @@ export function Hero() {
               transition={{ duration: 0.7, delay: 0.2 }}
               className="mt-6 text-lg lg:text-xl text-white/80 max-w-xl leading-relaxed"
             >
-              {company.name} provides dependable road, sea and air transport
-              solutions supported by warehousing, customs clearance and
-              end-to-end logistics coordination.
+              {company.name} provides dependable road, sea and air cargo
+              transport solutions supported by warehousing, heavy and bulk
+              cargo handling and end-to-end logistics coordination.
             </motion.p>
 
             <motion.div

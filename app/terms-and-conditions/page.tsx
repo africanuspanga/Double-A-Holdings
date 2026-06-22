@@ -29,10 +29,10 @@ export default function TermsPage() {
           </h2>
           <p>
             We coordinate road transport, maritime transport, air freight,
-            warehousing and distribution support, customs-clearance assistance
-            and end-to-end logistics solutions based on the information you
-            provide. Service availability and scope are confirmed on a
-            case-by-case basis.
+            warehousing and distribution support, heavy and bulk cargo
+            transport and end-to-end logistics solutions based on the
+            information you provide. Service availability and scope are
+            confirmed on a case-by-case basis.
           </p>
 
           <h2 className="text-2xl font-bold heading-font text-brand-navy mt-10 mb-4">

@@ -10,9 +10,9 @@ export const company = {
 };
 
 export const site = {
-  url: "https://www.doubleaholdings.co.tz",
+  url: "https://doubleholdingsltd.co.tz",
   titleTemplate: "%s | Double A Holdings Limited",
-  defaultTitle: "Double A Holdings Limited | Transport and Logistics Tanzania",
+  defaultTitle: "Cargo Transport Services in Tanzania | Double A Holdings Limited",
   defaultDescription:
-    "Double A Holdings Limited provides road transport, maritime transport, air freight, warehousing, customs-clearance support and end-to-end logistics solutions in Tanzania.",
+    "Double A Holdings Limited is a Tanzania-based cargo transport company specializing in road transport, maritime transport, air freight, heavy and bulk cargo, warehousing and end-to-end logistics solutions.",
 };

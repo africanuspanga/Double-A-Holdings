@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 
 const industries = [
-  "Import and Export Businesses",
+  "Cargo Shippers and Receivers",
   "Retail and Wholesale Distribution",
   "Manufacturing",
   "Construction and Building Materials",

@@ -14,7 +14,7 @@ const serviceOptions = [
   "Maritime Transport",
   "Air Freight",
   "Warehousing and Distribution",
-  "Customs Clearance",
+  "Heavy and Bulk Cargo Transport",
   "End-to-End Logistics",
   "Other",
 ];
